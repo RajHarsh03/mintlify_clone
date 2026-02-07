@@ -5,7 +5,7 @@ This project focuses on layout, UI styling, and modern landing page design patte
 
 ---
 
-## 📸 Screenshot
+# 📸 Screenshot
 
 
 ![Landing Page Screenshot](assets/1.png)
