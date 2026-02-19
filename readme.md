@@ -18,8 +18,7 @@ This project focuses on layout, UI styling, and modern landing page design patte
 ## 🔗 Live Preview
 
 👉 View the live demo here:
-https://harsh-raj4618.github.io/mintlify_clone/
-
+https://rajharsh03.github.io/mintlify_clone/
 
 ---
 
